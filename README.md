@@ -1,4 +1,4 @@
-Interesting PhD Dissertation_Collection
+Collection of Interesting PhD Dissertations
 =============================================================================================================
 
 NON COOPERATIVE GAMES
